@@ -26,7 +26,7 @@ public class ex02 {
 			System.out.println("Size" + n);
 			System.out.print("Average" +nf.format(sum /n)  );
 			
-				System.out.print("00");
+			
 			
 		}
 	
